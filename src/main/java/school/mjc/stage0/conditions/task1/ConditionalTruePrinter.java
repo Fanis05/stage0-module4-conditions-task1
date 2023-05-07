@@ -5,6 +5,6 @@ public class ConditionalTruePrinter {
 
         if (true) {
             System.out.println("true");
-        } 
+        }
     }
 }
